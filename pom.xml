@@ -12,9 +12,5 @@
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
     </properties>
-<<<<<<< HEAD
-
-=======
->>>>>>> 2d8cbacfaaa5ab4aee253fcb7332451385c0a4a3
 
 </project>
