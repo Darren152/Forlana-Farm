@@ -27,3 +27,5 @@
 13. Go to the github link to make a pull request.
 
 14. MAKE COMMIT MESSAGES VERY DETAILED. (Include every import)
+
+15. Be a boss.
