@@ -5,11 +5,12 @@ public class Animal implements INoiseMaker,IEater{
 
     @Override
     public String makeNoise() {
-        return null;
+
+        return "Animals make noise";
     }
 
     @Override
     public String isEating() {
-        return null;
+        return "Animals eat stuff";
     }
 }
